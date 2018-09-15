@@ -1,0 +1,9 @@
+/Users/joker/Project/Pilot/serialnumber/Calculator/bin/Debug/netstandard2.0/Calculator.deps.json
+/Users/joker/Project/Pilot/serialnumber/Calculator/bin/Debug/netstandard2.0/Calculator.dll
+/Users/joker/Project/Pilot/serialnumber/Calculator/bin/Debug/netstandard2.0/Calculator.pdb
+/Users/joker/Project/Pilot/serialnumber/Calculator/obj/Debug/netstandard2.0/Calculator.csprojAssemblyReference.cache
+/Users/joker/Project/Pilot/serialnumber/Calculator/obj/Debug/netstandard2.0/Calculator.csproj.CoreCompileInputs.cache
+/Users/joker/Project/Pilot/serialnumber/Calculator/obj/Debug/netstandard2.0/Calculator.AssemblyInfoInputs.cache
+/Users/joker/Project/Pilot/serialnumber/Calculator/obj/Debug/netstandard2.0/Calculator.AssemblyInfo.cs
+/Users/joker/Project/Pilot/serialnumber/Calculator/obj/Debug/netstandard2.0/Calculator.dll
+/Users/joker/Project/Pilot/serialnumber/Calculator/obj/Debug/netstandard2.0/Calculator.pdb

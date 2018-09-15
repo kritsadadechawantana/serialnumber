@@ -1,0 +1,17 @@
+/Users/joker/Project/Pilot/serialnumber/Calculator.Test/obj/Debug/netcoreapp2.1/Calculator.Test.csprojAssemblyReference.cache
+/Users/joker/Project/Pilot/serialnumber/Calculator.Test/obj/Debug/netcoreapp2.1/Calculator.Test.csproj.CoreCompileInputs.cache
+/Users/joker/Project/Pilot/serialnumber/Calculator.Test/obj/Debug/netcoreapp2.1/Calculator.Test.AssemblyInfoInputs.cache
+/Users/joker/Project/Pilot/serialnumber/Calculator.Test/obj/Debug/netcoreapp2.1/Calculator.Test.AssemblyInfo.cs
+/Users/joker/Project/Pilot/serialnumber/Calculator.Test/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/joker/Project/Pilot/serialnumber/Calculator.Test/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+/Users/joker/Project/Pilot/serialnumber/Calculator.Test/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
+/Users/joker/Project/Pilot/serialnumber/Calculator.Test/bin/Debug/netcoreapp2.1/Calculator.Test.deps.json
+/Users/joker/Project/Pilot/serialnumber/Calculator.Test/bin/Debug/netcoreapp2.1/Calculator.Test.runtimeconfig.json
+/Users/joker/Project/Pilot/serialnumber/Calculator.Test/bin/Debug/netcoreapp2.1/Calculator.Test.runtimeconfig.dev.json
+/Users/joker/Project/Pilot/serialnumber/Calculator.Test/bin/Debug/netcoreapp2.1/Calculator.Test.dll
+/Users/joker/Project/Pilot/serialnumber/Calculator.Test/bin/Debug/netcoreapp2.1/Calculator.Test.pdb
+/Users/joker/Project/Pilot/serialnumber/Calculator.Test/bin/Debug/netcoreapp2.1/Calculator.dll
+/Users/joker/Project/Pilot/serialnumber/Calculator.Test/bin/Debug/netcoreapp2.1/Calculator.pdb
+/Users/joker/Project/Pilot/serialnumber/Calculator.Test/obj/Debug/netcoreapp2.1/Calculator.Test.csproj.CopyComplete
+/Users/joker/Project/Pilot/serialnumber/Calculator.Test/obj/Debug/netcoreapp2.1/Calculator.Test.dll
+/Users/joker/Project/Pilot/serialnumber/Calculator.Test/obj/Debug/netcoreapp2.1/Calculator.Test.pdb
