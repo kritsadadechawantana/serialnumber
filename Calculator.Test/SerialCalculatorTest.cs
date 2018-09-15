@@ -12,6 +12,7 @@ namespace Calculator.Test
         [InlineData(2, new long[]{2})]
         [InlineData(66, new long[]{21, 22, 23})]
         [InlineData(1000000, new long[]{199998, 199999, 200000, 200001, 200002})]
+        [InlineData(145847183479857, new long[]{72923591739928, 72923591739929})]
         [InlineData(1000000000000, new long[]{199999999998, 199999999999, 200000000000, 200000000001, 200000000002})]
         [InlineData(1000000000000000000, new long[]{199999999999999998, 199999999999999999, 200000000000000000, 200000000000000001, 200000000000000002})]
         public void Test1(long number, long[] expected)
