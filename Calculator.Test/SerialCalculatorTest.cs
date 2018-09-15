@@ -4,7 +4,7 @@ using Calculator;
 
 namespace Calculator.Test
 {
-    public class UnitTest1
+    public class SerialCalculatorTest
     {
         [Theory]
         [InlineData(0, new long[]{0})]
