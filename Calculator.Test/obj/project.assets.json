@@ -5724,23 +5724,23 @@
     ]
   },
   "packageFolders": {
-    "/Users/joker/.nuget/packages/": {},
-    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "/home/user/.nuget/packages/": {},
+    "/usr/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/joker/Project/Pilot/serialnumber/Calculator.Test/Calculator.Test.csproj",
+      "projectUniqueName": "/projects/kritsadadechawantana-serialnumber/Calculator.Test/Calculator.Test.csproj",
       "projectName": "Calculator.Test",
-      "projectPath": "/Users/joker/Project/Pilot/serialnumber/Calculator.Test/Calculator.Test.csproj",
-      "packagesPath": "/Users/joker/.nuget/packages/",
-      "outputPath": "/Users/joker/Project/Pilot/serialnumber/Calculator.Test/obj/",
+      "projectPath": "/projects/kritsadadechawantana-serialnumber/Calculator.Test/Calculator.Test.csproj",
+      "packagesPath": "/home/user/.nuget/packages/",
+      "outputPath": "/projects/kritsadadechawantana-serialnumber/Calculator.Test/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        "/usr/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/joker/.nuget/NuGet/NuGet.Config"
+        "/home/user/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"
@@ -5751,8 +5751,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "/Users/joker/Project/Pilot/serialnumber/Calculator/Calculator.csproj": {
-              "projectPath": "/Users/joker/Project/Pilot/serialnumber/Calculator/Calculator.csproj"
+            "/projects/kritsadadechawantana-serialnumber/Calculator/Calculator.csproj": {
+              "projectPath": "/projects/kritsadadechawantana-serialnumber/Calculator/Calculator.csproj"
             }
           }
         }

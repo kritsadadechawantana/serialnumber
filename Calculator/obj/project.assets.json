@@ -176,23 +176,23 @@
     ]
   },
   "packageFolders": {
-    "/Users/joker/.nuget/packages/": {},
-    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "/home/user/.nuget/packages/": {},
+    "/usr/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/joker/Project/Pilot/serialnumber/Calculator/Calculator.csproj",
+      "projectUniqueName": "/projects/kritsadadechawantana-serialnumber/Calculator/Calculator.csproj",
       "projectName": "Calculator",
-      "projectPath": "/Users/joker/Project/Pilot/serialnumber/Calculator/Calculator.csproj",
-      "packagesPath": "/Users/joker/.nuget/packages/",
-      "outputPath": "/Users/joker/Project/Pilot/serialnumber/Calculator/obj/",
+      "projectPath": "/projects/kritsadadechawantana-serialnumber/Calculator/Calculator.csproj",
+      "packagesPath": "/home/user/.nuget/packages/",
+      "outputPath": "/projects/kritsadadechawantana-serialnumber/Calculator/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        "/usr/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/joker/.nuget/NuGet/NuGet.Config"
+        "/home/user/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
